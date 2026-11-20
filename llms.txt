@@ -1,0 +1,52 @@
+# M.A.R.S. USA
+
+> M.A.R.S. USA (usa.teduza.com) is a website of M.A.R.S. COMPANION LLC, an independent technology company registered in the Republic of Armenia and led from Kapan, Armenia. The company develops M.A.R.S. (Mobile Autonomous Reasoning System), an offline personal AI companion and digital personality project.
+
+Motto: Founded in Kapan, Armenia. Built for the World.
+The path of M.A.R.S.: Started in Kronstadt. Born in Pushkin. Founded in Kapan, Armenia. Built for the World.
+
+## Key facts
+
+- Legal name: M.A.R.S. COMPANION LLC
+- Legal form: limited liability company, Republic of Armenia
+- Place of registration: Kapan, Syunik Province, Republic of Armenia
+- Date of registration: 17 August 2026
+- State registration number: 999.110.1603426
+- Tax identification number: 09433977
+- Founder and director, Global Representative: Aleksandr Sarkisian (Russian: Саркисян Александр Давидович)
+- E-mail: contact@teduza.com
+- Telegram: https://t.me/teduza
+- National websites: Finland (suomi.teduza.com), Germany (de.teduza.com), United States (usa.teduza.com). They are websites of the same company, not separate legal entities or offices.
+- M.A.R.S. is in active development; no technical specifications, release dates or availability have been published.
+
+## Pages (English)
+
+- [M.A.R.S. USA — Offline Personal AI Companion in the United States](https://usa.teduza.com/en/): M.A.R.S. USA is the national website of M.A.R.S. COMPANION LLC for the United States. The Armenian company develops M.A.R.S., an offline personal AI voice companion.
+- [About M.A.R.S. USA and M.A.R.S. COMPANION LLC](https://usa.teduza.com/en/about/): M.A.R.S. USA is the national website of M.A.R.S. International for the United States, operated by M.A.R.S. COMPANION LLC, a company incorporated in the Republic of Armenia.
+- [M.A.R.S. Technology — M.A.R.S. USA](https://usa.teduza.com/en/technology/): An overview for readers in the United States of M.A.R.S., the offline personal AI companion and digital personality project: design principles and development status.
+- [Research & Technology — M.A.R.S. USA](https://usa.teduza.com/en/research-technology/): Research interests of M.A.R.S. COMPANION LLC and how universities and research institutions in the United States can start a dialogue with the company.
+- [Cooperation in the United States — M.A.R.S. USA](https://usa.teduza.com/en/cooperation/): How research institutions, universities, companies and public-sector organisations in the United States can start a conversation about cooperation with M.A.R.S. COMPANION LLC.
+- [National Presence in the United States — M.A.R.S. USA](https://usa.teduza.com/en/national-presence/): M.A.R.S. USA — the national presence of M.A.R.S. COMPANION LLC in the United States: a website and point of dialogue for organisations in the United States.
+- [News and Updates — M.A.R.S. USA](https://usa.teduza.com/en/news/): Official news from M.A.R.S. COMPANION LLC about M.A.R.S. and the company's presence in the United States.
+- [Contact M.A.R.S. COMPANION LLC — M.A.R.S. USA](https://usa.teduza.com/en/contact/): How to contact M.A.R.S. COMPANION LLC and its founder and director, Aleksandr Sarkisian, from the United States. The company is led from Kapan, Armenia.
+- [Privacy Policy — M.A.R.S. USA](https://usa.teduza.com/en/privacy-policy/): How usa.teduza.com handles personal data: no cookies, no analytics and no tracking. Controller: M.A.R.S. COMPANION LLC, Republic of Armenia.
+- [Legal Notice and Disclaimer — M.A.R.S. USA](https://usa.teduza.com/en/legal-notice/): Provider information for usa.teduza.com and important notes on the status of the M.A.R.S. national presences, content and external links.
+
+## Other languages
+
+- [Русский](https://usa.teduza.com/ru/)
+
+## M.A.R.S. network
+
+- [M.A.R.S. International](https://global.teduza.com/en/)
+- [M.A.R.S. Suomi](https://suomi.teduza.com/fi/)
+- [M.A.R.S. Deutschland](https://de.teduza.com/de/)
+
+## Optional
+
+- [Full text of the English pages](https://usa.teduza.com/llms-full.txt)
+- [Company website](https://company.teduza.com/)
+- [Founder's personal website](https://sarkisian.teduza.com/)
+- [Wikidata: M.A.R.S. COMPANION LLC](https://www.wikidata.org/wiki/Q141447626)
+- [Wikidata: Aleksandr Sarkisian](https://www.wikidata.org/wiki/Q141447666)
+- [Sitemap](https://usa.teduza.com/sitemap.xml)

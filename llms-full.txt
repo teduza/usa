@@ -1,0 +1,231 @@
+# M.A.R.S. USA — full text (English)
+
+Source: https://usa.teduza.com/en/
+
+---
+
+URL: https://usa.teduza.com/en/
+
+# M.A.R.S. USA
+M.A.R.S. USA presents M.A.R.S. COMPANION LLC and its offline personal AI companion project to organisations in the United States. The company was founded in Kapan, Armenia, and is led from there.
+Started in Kronstadt. Born in Pushkin. Founded in Kapan, Armenia. Built for the World.
+## At a glance
+### What M.A.R.S. is
+M.A.R.S. (Mobile Autonomous Reasoning System) is a personal AI companion and digital personality project designed to work without depending on the cloud.
+### Who is behind it
+M.A.R.S. COMPANION LLC, a company incorporated in the Republic of Armenia. Its founder and director is Aleksandr Sarkisian.
+### Connection status
+M.A.R.S. USA is the national website and point of dialogue for the United States. Status: establishing connection.
+## Why the United States
+The United States is home to one of the world's largest technology and research ecosystems. It is a priority region for the international development of M.A.R.S. COMPANION LLC and a key place for dialogue about the future of personal AI.
+## Part of a global presence
+Founded in Kapan, Armenia, M.A.R.S. COMPANION LLC is developing a presence in the European Union and the United States.
+- The path
+- Kronstadt Started
+- Pushkin Born
+- Kapan, Armenia 39.21°N 46.41°E Founded
+- National websites
+- Finland suomi.teduza.com Establishing connection
+- Germany de.teduza.com Establishing connection
+- United States usa.teduza.com Establishing connection
+Leadership
+## Aleksandr Sarkisian
+Founder & Director · Global Representative
+Aleksandr Sarkisian founded M.A.R.S. COMPANION LLC and leads it as director. As Global Representative he represents the company in every country.
+Personal website Wikidata ORCID ISNI
+## Open to serious dialogue.
+Research institutions, universities, companies and public-sector organisations in the United States are welcome to contact us.
+Ways to cooperate
+
+---
+
+URL: https://usa.teduza.com/en/about/
+
+# About M.A.R.S. USA
+M.A.R.S. USA is the national website of M.A.R.S. International for the United States. It is operated by M.A.R.S. COMPANION LLC, incorporated in the Republic of Armenia.
+## Our names at a glance
+### M.A.R.S. COMPANION LLC
+Legal company
+A limited liability company incorporated in the Republic of Armenia. All contracts, rights and obligations sit with this company.
+### M.A.R.S. International
+International brand
+The name under which the company presents itself internationally.
+### M.A.R.S. USA
+National presence
+This website: the company's national presence in the United States.
+### M.A.R.S.
+Technology project
+Mobile Autonomous Reasoning System — the offline personal AI companion and digital personality project developed by the company.
+### Aleksandr Sarkisian
+Founder & Director
+Founder and director of M.A.R.S. COMPANION LLC and the company's representative in every country.
+## Key facts
+- Company: M.A.R.S. COMPANION LLC
+- Incorporated in: Republic of Armenia
+- Led from: Kapan, Armenia
+- Representative: Aleksandr Sarkisian, Founder & Director
+Leadership
+## Aleksandr Sarkisian
+Founder & Director · Global Representative
+Aleksandr Sarkisian founded M.A.R.S. COMPANION LLC and leads it as director. As Global Representative he represents the company in every country.
+Personal website Wikidata ORCID ISNI
+## More about the company
+The company's origin, principles and leadership are described on the M.A.R.S. International website.
+
+---
+
+URL: https://usa.teduza.com/en/technology/
+
+# M.A.R.S. technology
+M.A.R.S. — Mobile Autonomous Reasoning System — is an offline personal AI companion and digital personality project developed by M.A.R.S. COMPANION LLC.
+## Design principles
+### Offline by design
+M.A.R.S. is designed to run locally on the user's own hardware, so personal interaction does not depend on remote servers.
+### A personal voice companion
+It is built for spoken conversation with one person over the long term, rather than anonymous one-off queries.
+### Long-term memory and personality
+M.A.R.S. is conceived as a digital personality with a stable character and long-term memory across conversations.
+### Privacy as a starting point
+No mandatory accounts, subscriptions or remote data collection. What a person shares stays with them.
+## Development status
+M.A.R.S. is under active development. Product specifications, availability and release dates have not been published.
+We will describe capabilities publicly once they can be demonstrated, and not before.
+## What we do not publish
+Technical architecture, unpublished research and work related to intellectual property are confidential. Detailed technical discussions take place only within a formal framework, such as a non-disclosure agreement.
+## Further reading
+The technology page of M.A.R.S. International is the central reference for the project.
+
+---
+
+URL: https://usa.teduza.com/en/research-technology/
+
+# Research & Technology
+Our R&D focuses on one question: what it takes to build a personal AI companion that works offline and stays consistent over time.
+## Areas of interest
+### Offline reasoning
+Approaches that allow useful reasoning on personal devices with limited resources and without constant connectivity.
+### Continuity and personality
+How a digital companion can maintain a coherent character and context over long periods of use.
+### Human–AI interaction
+Trust, transparency and healthy boundaries in long-term interaction between a person and an AI companion.
+### Privacy-preserving design
+Design choices that keep personal information under the control of the person it belongs to.
+## Researchers in the United States
+We welcome contact from universities and research institutions in the United States working in related fields. No research collaboration in the United States has been established to date.
+No research publications have been released yet.
+
+---
+
+URL: https://usa.teduza.com/en/cooperation/
+
+# Cooperation
+We are open to dialogue with organisations in the United States that share an interest in personal, privacy-respecting AI.
+## Who we would like to hear from
+### Research institutions
+Groups working on reasoning, human–AI interaction or privacy who see a fit with our areas of interest.
+### Universities
+Faculties and departments interested in academic dialogue, joint questions or student projects.
+### Companies
+Technology and industry partners with a related interest in personal or offline AI.
+### Public-sector organisations
+Institutions interested in responsible, privacy-respecting AI for people.
+## How a conversation starts
+- Initial contact Write to us with a short description of your organisation and the topic you have in mind.
+- Introductory call We arrange a conversation to understand mutual interests.
+- Confidentiality Where confidential information is involved, we agree a non-disclosure framework first.
+- Defined scope Any cooperation is based on a written agreement with a clear scope.
+## Start the conversation.
+Contact details and practical information are on the contact page.
+Contact
+
+---
+
+URL: https://usa.teduza.com/en/national-presence/
+
+# National presence in the United States
+The national presence of M.A.R.S. COMPANION LLC in the United States — and how to connect with it.
+## What M.A.R.S. USA is
+M.A.R.S. USA is the national presence of M.A.R.S. COMPANION LLC: a website and point of dialogue for the United States, and part of the company's M.A.R.S. Global Presence.
+## Current status
+- Status: Establishing connection
+- Representative: Aleksandr Sarkisian, Founder & Director
+- Legal company: M.A.R.S. COMPANION LLC, Republic of Armenia
+## Future changes
+Updates about the national presence are published on this page and on the M.A.R.S. International website.
+
+---
+
+URL: https://usa.teduza.com/en/news/
+
+# News
+Official updates are published first on the M.A.R.S. International website. News relevant to the United States is collected here.
+## No updates published yet
+When there is news about M.A.R.S. or about our presence in the United States, it will appear on this page. See also M.A.R.S. International news.
+
+---
+
+URL: https://usa.teduza.com/en/contact/
+
+# Contact
+For cooperation, research dialogue or press enquiries, please contact the company directly.
+## Contact details
+- Company: M.A.R.S. COMPANION LLC
+- Representative: Aleksandr Sarkisian, Founder & Director
+- Location: Kapan, Republic of Armenia
+- E-mail: contact@teduza.com
+- Telegram: @teduza
+- Company website: company.teduza.com
+## Before you write
+- Briefly describe your organisation and the purpose of your enquiry.
+- Please do not send confidential material in a first message; we will agree a non-disclosure framework first if needed.
+
+---
+
+URL: https://usa.teduza.com/en/privacy-policy/
+
+# Privacy Policy
+This policy explains how personal data is handled when you visit usa.teduza.com. Last updated: 20 November 2026.
+## 1. Controller
+- Company: M.A.R.S. COMPANION LLC
+- Country: Republic of Armenia
+- E-mail: contact@teduza.com
+## 2. What this website does not do
+- It does not set cookies and does not use local browser storage.
+- It does not use analytics, advertising or tracking tools.
+- It does not embed third-party content, and fonts are served from this website itself.
+- It contains no forms; no data is collected through the pages.
+## 3. Server log data
+When you open a page, the hosting provider that delivers this website may automatically process technical data such as your IP address, the date and time of access, the requested address and information about your browser. This is necessary to deliver the website and keep it secure.
+For visitors in the European Union, the legal basis is our legitimate interest in operating a secure website (Art. 6(1)(f) GDPR).
+## 4. Contacting us by e-mail
+If you write to us, we process your message and contact details only to respond to your enquiry and for any follow-up correspondence. We do not pass them on to third parties for marketing.
+## 5. Your rights
+Depending on the law that applies to you, you may have the right to access, rectify or erase your personal data, to restrict or object to its processing, and to data portability. Visitors in the European Union may also lodge a complaint with a data protection supervisory authority. To exercise your rights, contact us at the e-mail address above.
+## 6. Changes
+We will update this policy if the website changes in a way that affects personal data, for example if analytics or a contact form are introduced.
+
+---
+
+URL: https://usa.teduza.com/en/legal-notice/
+
+# Legal Notice and Disclaimer
+Provider information and disclaimer for usa.teduza.com. Last updated: 20 November 2026.
+## Website provider
+- Company: M.A.R.S. COMPANION LLC
+- Legal form: Limited liability company under the laws of the Republic of Armenia
+- Place of registration: Kapan, Syunik Province, Republic of Armenia
+- Registration date: 17 August 2026
+- Registration number: 999.110.1603426
+- Tax identification number: 09433977
+- Director: Aleksandr Sarkisian (Founder & Director)
+- E-mail: contact@teduza.com
+## National websites
+M.A.R.S. Suomi, M.A.R.S. Deutschland and M.A.R.S. USA are national websites of M.A.R.S. COMPANION LLC for Finland, Germany and the United States. They are not separate legal entities; the provider of all four websites is M.A.R.S. COMPANION LLC.
+## No affiliation or endorsement
+Nothing on this website states or implies endorsement by, or partnership with, any government, public authority, university or company, unless expressly stated together with the name of that organisation.
+## Content
+The content of this website is provided for general information. It does not constitute an offer. M.A.R.S. is under development; descriptions of the project reflect current intentions and are not commitments regarding features, availability or timing.
+## External links
+Links to other websites are provided for convenience. We are not responsible for the content of external websites.
+## Names and copyright
+The names M.A.R.S., M.A.R.S. International, M.A.R.S. Suomi, M.A.R.S. Deutschland and M.A.R.S. USA are used by M.A.R.S. COMPANION LLC. Texts, graphics and design on this website are protected by copyright. © 2026 M.A.R.S. COMPANION LLC.
